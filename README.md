@@ -12,8 +12,9 @@ This roadmap is a suggested set of topics you need to learn Android to become An
   </p>
 
 * Android Academy Cources in [Youtube](https://www.youtube.com/playlist?list=PLjLCGE4bVpHCJvtGpEVl-4IYGHB1A8FCc)
-
 * Presentations and a lot of useful materials in [Google Drive](https://drive.google.com/drive/folders/1Doi2uPpVTnrTV3kjpNFvmNzPb6Pp2SbC)
+* Workshops in [Github](https://github.com/Android-Academy-Global/fundamentals-2020-assignments)
+* Homeworks in [Github](https://github.com/Android-Academy-Global/fundamentals-2020-homework)
 
 
 ![Android Roadmap](https://github.com/ermolnik/android_roadmap/blob/main/Android%20Roadmap.png)
