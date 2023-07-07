@@ -1,4 +1,4 @@
-# Android 📱 Roadmap 🗺 2️⃣0️⃣2️⃣1️⃣
+# Android 📱 Roadmap 🗺 2️⃣0️⃣2️⃣3️⃣
 
 # How to use?
 This roadmap is a suggested set of topics you need to learn Android to become Android Developer. This list isn't complete, at every job you will come across an individual set. 
